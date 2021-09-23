@@ -2,5 +2,9 @@
   {
     "package": "stocc",
     "oncran": false
+  },
+  {
+    "package": "crawl",
+    "oncran": false
   }
 ]

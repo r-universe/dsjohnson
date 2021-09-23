@@ -8,3 +8,8 @@
 	url = https://github.com/dsjohnson/stocc
 	shallow = true
 	registered = true
+[submodule "crawl"]
+	path = crawl
+	url = https://github.com/NMML/crawl
+	shallow = true
+	registered = true
