@@ -13,3 +13,33 @@
 	url = https://github.com/NMML/crawl
 	shallow = true
 	registered = true
+[submodule "spExpM"]
+	path = spExpM
+	url = https://github.com/dsjohnson/spExpM
+	shallow = true
+	registered = true
+[submodule "agTred.ssl"]
+	path = agTred.ssl
+	url = https://github.com/dsjohnson/agTred.ssl
+	shallow = true
+	registered = true
+[submodule "cmpR"]
+	path = cmpR
+	url = https://github.com/dsjohnson/cmpR
+	shallow = true
+	registered = true
+[submodule "mbpp"]
+	path = mbpp
+	url = https://github.com/dsjohnson/mbpp
+	shallow = true
+	registered = true
+[submodule "multAbund"]
+	path = multAbund
+	url = https://github.com/dsjohnson/multAbund
+	shallow = true
+	registered = true
+[submodule "pupR"]
+	path = pupR
+	url = https://github.com/dsjohnson/pupR
+	shallow = true
+	registered = true

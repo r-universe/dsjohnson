@@ -6,5 +6,23 @@
   {
     "package": "crawl",
     "oncran": false
+  },
+  {
+    "package": "spExpM"
+  },
+  {
+    "package": "agTred.ssl"
+  },
+  {
+    "package": "cmpR"
+  },
+  {
+    "package": "mbpp"
+  },
+  {
+    "package": "multAbund"
+  },
+  {
+    "package": "pupR"
   }
 ]
