@@ -12,6 +12,7 @@
 	path = crawl
 	url = https://github.com/NMML/crawl
 	shallow = true
+	branch = devel
 	registered = true
 [submodule "spExpM"]
 	path = spExpM
@@ -20,7 +21,7 @@
 	registered = true
 [submodule "agTred.ssl"]
 	path = agTred.ssl
-	url = https://github.com/dsjohnson/agTred.ssl
+	url = https://github.com/dsjohnson/agTrend.ssl
 	shallow = true
 	registered = true
 [submodule "cmpR"]
@@ -42,4 +43,11 @@
 	path = pupR
 	url = https://github.com/dsjohnson/pupR
 	shallow = true
+	registered = true
+[submodule "markedTMB"]
+	path = markedTMB
+	url = https://github.com/jlaake/markedTMB
+	shallow = true
+	branch = devel
+	subdir = markedTMB
 	registered = true

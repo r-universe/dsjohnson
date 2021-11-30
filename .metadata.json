@@ -24,5 +24,8 @@
   },
   {
     "package": "pupR"
+  },
+  {
+    "package": "markedTMB"
   }
 ]
