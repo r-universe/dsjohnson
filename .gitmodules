@@ -19,8 +19,8 @@
 	url = https://github.com/dsjohnson/spExpM
 	shallow = true
 	registered = true
-[submodule "agTred.ssl"]
-	path = agTred.ssl
+[submodule "agTrend.ssl"]
+	path = agTrend.ssl
 	url = https://github.com/dsjohnson/agTrend.ssl
 	shallow = true
 	registered = true
