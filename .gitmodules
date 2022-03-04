@@ -51,3 +51,8 @@
 	branch = devel
 	subdir = markedTMB
 	registered = true
+[submodule "expQ2"]
+	path = expQ2
+	url = https://github.com/dsjohnson/expQ2
+	shallow = true
+	registered = true

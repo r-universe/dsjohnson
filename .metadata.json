@@ -27,5 +27,8 @@
   },
   {
     "package": "markedTMB"
+  },
+  {
+    "package": "expQ2"
   }
 ]
