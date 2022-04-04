@@ -3,21 +3,11 @@
 	url = https://github.com/dsjohnson/universe
 	shallow = true
 	branch = HEAD
-[submodule "stocc"]
-	path = stocc
-	url = https://github.com/dsjohnson/stocc
-	shallow = true
-	registered = true
-[submodule "crawl"]
-	path = crawl
+[submodule "crawl_devel"]
+	path = crawl_devel
 	url = https://github.com/NMML/crawl
 	shallow = true
 	branch = devel
-	registered = true
-[submodule "spExpM"]
-	path = spExpM
-	url = https://github.com/dsjohnson/spExpM
-	shallow = true
 	registered = true
 [submodule "agTrend.ssl"]
 	path = agTrend.ssl
@@ -54,5 +44,10 @@
 [submodule "expQ2"]
 	path = expQ2
 	url = https://github.com/dsjohnson/expQ2
+	shallow = true
+	registered = true
+[submodule "crawlUtils"]
+	path = crawlUtils
+	url = https://github.com/dsjohnson/crawlUtils
 	shallow = true
 	registered = true

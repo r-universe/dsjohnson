@@ -1,14 +1,6 @@
 [
   {
-    "package": "stocc",
-    "oncran": false
-  },
-  {
-    "package": "crawl",
-    "oncran": false
-  },
-  {
-    "package": "spExpM"
+    "package": "crawl_devel"
   },
   {
     "package": "agTrend.ssl"
@@ -30,5 +22,8 @@
   },
   {
     "package": "expQ2"
+  },
+  {
+    "package": "crawlUtils"
   }
 ]
