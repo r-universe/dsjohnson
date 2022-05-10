@@ -1,6 +1,7 @@
 [
   {
-    "package": "crawl_devel"
+    "package": "crawl",
+    "oncran": false
   },
   {
     "package": "agTrend.ssl"
