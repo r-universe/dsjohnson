@@ -26,5 +26,8 @@
   },
   {
     "package": "crawlUtils"
+  },
+  {
+    "package": "walk"
   }
 ]
