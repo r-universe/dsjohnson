@@ -29,5 +29,8 @@
   },
   {
     "package": "walk"
+  },
+  {
+    "package": "argosfilter"
   }
 ]
