@@ -31,6 +31,7 @@
     "package": "walk"
   },
   {
-    "package": "argosfilter"
+    "package": "argosfilter",
+    "oncran": false
   }
 ]
