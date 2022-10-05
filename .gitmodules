@@ -7,7 +7,6 @@
 	path = crawl
 	url = https://github.com/NMML/crawl
 	shallow = true
-	branch = devel
 	registered = true
 [submodule "agTrend.ssl"]
 	path = agTrend.ssl
