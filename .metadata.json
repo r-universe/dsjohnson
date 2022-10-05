@@ -33,5 +33,9 @@
   {
     "package": "argosfilter",
     "oncran": false
+  },
+  {
+    "package": "stocc",
+    "oncran": false
   }
 ]

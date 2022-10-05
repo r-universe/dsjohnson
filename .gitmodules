@@ -61,6 +61,11 @@
 	url = https://github.com/dsjohnson/argosfilter
 	shallow = true
 	registered = true
+[submodule "stocc"]
+	path = stocc
+	url = https://github.com/dsjohnson/stocc
+	shallow = true
+	registered = true
 [submodule "pathroutr"]
 	path = pathroutr
 	url = https://github.com/jmlondon/pathroutr
