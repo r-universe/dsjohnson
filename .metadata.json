@@ -37,5 +37,8 @@
   {
     "package": "stocc",
     "oncran": false
+  },
+  {
+    "package": "moveMMPP"
   }
 ]

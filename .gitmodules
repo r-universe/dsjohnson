@@ -65,6 +65,11 @@
 	url = https://github.com/dsjohnson/stocc
 	shallow = true
 	registered = true
+[submodule "moveMMPP"]
+	path = moveMMPP
+	url = https://github.com/dsjohnson/moveMMPP
+	shallow = true
+	registered = true
 [submodule "pathroutr"]
 	path = pathroutr
 	url = https://github.com/jmlondon/pathroutr
