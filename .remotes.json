@@ -7,6 +7,12 @@
     "from": "crawlUtils"
   },
   {
+    "package": "expQ2",
+    "url": "https://github.com/dsjohnson/expQ2",
+    "via": ["moveMMPP"],
+    "from": "moveMMPP"
+  },
+  {
     "package": "pathroutr",
     "url": "https://github.com/jmlondon/pathroutr",
     "via": ["crawlUtils"],
