@@ -55,19 +55,9 @@
 	url = https://github.com/dsjohnson/walk
 	shallow = true
 	registered = true
-[submodule "argosfilter"]
-	path = argosfilter
-	url = https://github.com/dsjohnson/argosfilter
-	shallow = true
-	registered = true
 [submodule "stocc"]
 	path = stocc
 	url = https://github.com/dsjohnson/stocc
-	shallow = true
-	registered = true
-[submodule "moveMMPP"]
-	path = moveMMPP
-	url = https://github.com/dsjohnson/moveMMPP
 	shallow = true
 	registered = true
 [submodule "pathroutr"]

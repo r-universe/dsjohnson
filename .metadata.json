@@ -31,14 +31,7 @@
     "package": "walk"
   },
   {
-    "package": "argosfilter",
-    "oncran": false
-  },
-  {
     "package": "stocc",
     "oncran": false
-  },
-  {
-    "package": "moveMMPP"
   }
 ]
