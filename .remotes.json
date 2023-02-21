@@ -16,12 +16,6 @@
   {
     "package": "expQ2",
     "url": "https://github.com/dsjohnson/expQ2",
-    "via": ["moveMMPP"],
-    "from": "moveMMPP"
-  },
-  {
-    "package": "expQ2",
-    "url": "https://github.com/dsjohnson/expQ2",
     "via": ["walk"],
     "from": "walk"
   },
