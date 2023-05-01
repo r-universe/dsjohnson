@@ -60,6 +60,11 @@
 	url = https://github.com/dsjohnson/stocc
 	shallow = true
 	registered = true
+[submodule "radolc"]
+	path = radolc
+	url = https://github.com/sriharikrishna/radolc
+	shallow = true
+	registered = true
 [submodule "GPSeqClus"]
 	path = GPSeqClus
 	url = https://github.com/dsjohnson/GPSeqClus
