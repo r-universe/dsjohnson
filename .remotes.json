@@ -14,6 +14,13 @@
     "from": "crawlUtils"
   },
   {
+    "package": "crawl",
+    "url": "https://github.com/NMML/crawl",
+    "via": ["ctmmUtils", "pathroutr"],
+    "branch": "devel",
+    "from": "ctmmUtils"
+  },
+  {
     "package": "expQ2",
     "url": "https://github.com/dsjohnson/expQ2",
     "via": ["walk"],
@@ -24,5 +31,11 @@
     "url": "https://github.com/jmlondon/pathroutr",
     "via": ["crawlUtils"],
     "from": "crawlUtils"
+  },
+  {
+    "package": "pathroutr",
+    "url": "https://github.com/jmlondon/pathroutr",
+    "via": ["ctmmUtils"],
+    "from": "ctmmUtils"
   }
 ]
