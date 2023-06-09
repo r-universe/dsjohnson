@@ -50,11 +50,6 @@
 	url = https://github.com/dsjohnson/crawlUtils
 	shallow = true
 	registered = true
-[submodule "walk"]
-	path = walk
-	url = https://github.com/dsjohnson/walk
-	shallow = true
-	registered = true
 [submodule "stocc"]
 	path = stocc
 	url = https://github.com/dsjohnson/stocc
