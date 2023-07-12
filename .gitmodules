@@ -1,73 +1,48 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/dsjohnson/universe
-	shallow = true
 	branch = HEAD
 [submodule "crawl"]
 	path = crawl
 	url = https://github.com/NMML/crawl
-	shallow = true
-	registered = true
 [submodule "agTrend.ssl"]
 	path = agTrend.ssl
 	url = https://github.com/dsjohnson/agTrend.ssl
-	shallow = true
-	registered = true
 [submodule "cmpR"]
 	path = cmpR
 	url = https://github.com/dsjohnson/cmpR
-	shallow = true
-	registered = true
 [submodule "mbpp"]
 	path = mbpp
 	url = https://github.com/dsjohnson/mbpp
-	shallow = true
-	registered = true
 [submodule "multAbund"]
 	path = multAbund
 	url = https://github.com/dsjohnson/multAbund
-	shallow = true
-	registered = true
 [submodule "pupR"]
 	path = pupR
 	url = https://github.com/dsjohnson/pupR
-	shallow = true
-	registered = true
 [submodule "markedTMB"]
 	path = markedTMB
 	url = https://github.com/jlaake/markedTMB
-	shallow = true
 	branch = devel
 	subdir = markedTMB
-	registered = true
 [submodule "expQ2"]
 	path = expQ2
 	url = https://github.com/dsjohnson/expQ2
-	shallow = true
-	registered = true
 [submodule "crawlUtils"]
 	path = crawlUtils
 	url = https://github.com/dsjohnson/crawlUtils
-	shallow = true
-	registered = true
 [submodule "stocc"]
 	path = stocc
 	url = https://github.com/dsjohnson/stocc
-	shallow = true
-	registered = true
 [submodule "ctmmUtils"]
 	path = ctmmUtils
 	url = https://github.com/dsjohnson/ctmmUtils
-	shallow = true
-	registered = true
 [submodule "GPSeqClus"]
 	path = GPSeqClus
 	url = https://github.com/dsjohnson/GPSeqClus
-	shallow = true
 	branch = fixes
 	registered = false
 [submodule "pathroutr"]
 	path = pathroutr
 	url = https://github.com/jmlondon/pathroutr
-	shallow = true
 	registered = false
