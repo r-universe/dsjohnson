@@ -28,7 +28,7 @@
 [submodule "markedTMB"]
 	path = markedTMB
 	url = https://github.com/jlaake/markedTMB
-	branch = devel
+	branch = master
 	subdir = markedTMB
 [submodule "mbpp"]
 	path = mbpp
