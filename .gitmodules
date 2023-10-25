@@ -33,6 +33,9 @@
 [submodule "mbpp"]
 	path = mbpp
 	url = https://github.com/dsjohnson/mbpp
+[submodule "moveMMPP"]
+	path = moveMMPP
+	url = https://github.com/dsjohnson/moveMMPP
 [submodule "multAbund"]
 	path = multAbund
 	url = https://github.com/dsjohnson/multAbund
