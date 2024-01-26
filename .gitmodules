@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/dsjohnson/universe
+	url = https://github.com/dsjohnson/dsjohnson.r-universe.dev
 	branch = HEAD
 [submodule "GPSeqClus"]
 	path = GPSeqClus
