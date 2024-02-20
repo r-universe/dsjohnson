@@ -25,6 +25,11 @@
 [submodule "expQ2"]
 	path = expQ2
 	url = https://github.com/dsjohnson/expQ2
+[submodule "marked"]
+	path = marked
+	url = https://github.com/jlaake/marked
+	branch = devel
+	subdir = marked
 [submodule "markedTMB"]
 	path = markedTMB
 	url = https://github.com/jlaake/markedTMB
