@@ -2,11 +2,6 @@
 	path = .registry
 	url = https://github.com/dsjohnson/dsjohnson.r-universe.dev
 	branch = HEAD
-[submodule "GPSeqClus"]
-	path = GPSeqClus
-	url = https://github.com/dsjohnson/GPSeqClus
-	branch = fixes
-	registered = false
 [submodule "agTrend.ssl"]
 	path = agTrend.ssl
 	url = https://github.com/dsjohnson/agTrend.ssl

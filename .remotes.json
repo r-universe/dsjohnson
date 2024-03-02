@@ -1,12 +1,5 @@
 [
   {
-    "package": "GPSeqClus",
-    "url": "https://github.com/dsjohnson/GPSeqClus",
-    "via": ["crawlUtils"],
-    "branch": "fixes",
-    "from": "crawlUtils"
-  },
-  {
     "package": "crawl",
     "url": "https://github.com/NMML/crawl",
     "via": ["crawlUtils", "pathroutr"],
