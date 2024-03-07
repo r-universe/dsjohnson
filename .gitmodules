@@ -43,6 +43,9 @@
 	path = pathroutr
 	url = https://github.com/jmlondon/pathroutr
 	registered = false
+[submodule "picMaps"]
+	path = picMaps
+	url = https://github.com/PIFSC-Protected-Species-Division/picMaps
 [submodule "pupR"]
 	path = pupR
 	url = https://github.com/dsjohnson/pupR
