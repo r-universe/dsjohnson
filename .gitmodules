@@ -49,3 +49,6 @@
 [submodule "stocc"]
 	path = stocc
 	url = https://github.com/dsjohnson/stocc
+[submodule "walk"]
+	path = walk
+	url = https://github.com/dsjohnson/walk
