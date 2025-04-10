@@ -17,6 +17,9 @@
 [submodule "ctmmUtils"]
 	path = ctmmUtils
 	url = https://github.com/dsjohnson/ctmmUtils
+[submodule "dsmextraLite"]
+	path = dsmextraLite
+	url = https://github.com/dsjohnson/dsmextraLite
 [submodule "expQ2"]
 	path = expQ2
 	url = https://github.com/dsjohnson/expQ2
@@ -49,9 +52,6 @@
 [submodule "stocc"]
 	path = stocc
 	url = https://github.com/dsjohnson/stocc
-[submodule "varpropTMB"]
-	path = varpropTMB
-	url = https://github.com/dsjohnson/varpropTMB
 [submodule "walk"]
 	path = walk
 	url = https://github.com/dsjohnson/walk
