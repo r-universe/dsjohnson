@@ -42,6 +42,9 @@
 [submodule "multAbund"]
 	path = multAbund
 	url = https://github.com/dsjohnson/multAbund
+[submodule "nimbleJSextras"]
+	path = nimbleJSextras
+	url = https://github.com/dsjohnson/nimbleJSextras
 [submodule "pathroutr"]
 	path = pathroutr
 	url = https://github.com/jmlondon/pathroutr
