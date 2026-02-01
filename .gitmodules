@@ -45,10 +45,6 @@
 [submodule "nimbleJSextras"]
 	path = nimbleJSextras
 	url = https://github.com/dsjohnson/nimbleJSextras
-[submodule "pathroutr"]
-	path = pathroutr
-	url = https://github.com/jmlondon/pathroutr
-	registered = false
 [submodule "pupR"]
 	path = pupR
 	url = https://github.com/dsjohnson/pupR
