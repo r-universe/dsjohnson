@@ -17,6 +17,9 @@
 [submodule "ctmmUtils"]
 	path = ctmmUtils
 	url = https://github.com/dsjohnson/ctmmUtils
+[submodule "distanceMCMC"]
+	path = distanceMCMC
+	url = https://github.com/dsjohnson/distanceMCMC
 [submodule "dsmextraLite"]
 	path = dsmextraLite
 	url = https://github.com/dsjohnson/dsmextraLite
