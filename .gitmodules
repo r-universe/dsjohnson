@@ -20,6 +20,9 @@
 [submodule "distanceMCMC"]
 	path = distanceMCMC
 	url = https://github.com/dsjohnson/distanceMCMC
+[submodule "dmnormLR"]
+	path = dmnormLR
+	url = https://github.com/dsjohnson/dmnormLR
 [submodule "dsmextraLite"]
 	path = dsmextraLite
 	url = https://github.com/dsjohnson/dsmextraLite
