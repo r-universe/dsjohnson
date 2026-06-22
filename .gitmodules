@@ -29,6 +29,9 @@
 [submodule "expQ2"]
 	path = expQ2
 	url = https://github.com/dsjohnson/expQ2
+[submodule "expmAction"]
+	path = expmAction
+	url = https://github.com/dsjohnson/expmAction
 [submodule "marked"]
 	path = marked
 	url = https://github.com/jlaake/marked
