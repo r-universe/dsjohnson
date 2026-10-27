@@ -54,6 +54,7 @@
 [submodule "nimbleJSextras"]
 	path = nimbleJSextras
 	url = https://github.com/dsjohnson/nimbleJSextras
+	subdir = nimbleJSextras
 [submodule "pupR"]
 	path = pupR
 	url = https://github.com/dsjohnson/pupR
